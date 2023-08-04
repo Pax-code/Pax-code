@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NFC Wallet**
 
-- 🌱 I’m currently learning **CSS, JavaScript, React**
+- 🌱 I’m currently learning **Kotlin, CSS, JavaScript, React**
 
 - 🤝 I’m looking for help with **NFC technologies with kotlin**
 
